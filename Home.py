@@ -1,8 +1,6 @@
 import streamlit as st
 import pandas as pd
-import seaborn as sns
 
-sns.set()
 
 st.title("CAPSTONE PROJECT®")
 st.subheader("It is Always Fun to Learn!")
